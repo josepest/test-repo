@@ -1,4 +1,6 @@
 test-repo
 =========
 
-My test file
+My test file~sa
+
+Two remotes
