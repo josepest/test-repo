@@ -1,6 +1,8 @@
-test-repo
-=========
+Test readme HTML to md
+======================
 
-My test file~sa
+![Upturn Rentals Logo](https://www.upturnrentals.com/assets/img/logo.png)
 
-Two remotes
+* * *
+
+![Screenshoot frontend resultado](readme_asset_wp_frontend.jpg)
