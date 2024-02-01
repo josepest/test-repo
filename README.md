@@ -1,8 +1,4 @@
-Test readme HTML to md
-======================
+Test-repo
+=========
 
-![Upturn Rentals Logo](https://www.upturnrentals.com/assets/img/logo.png)
-
-* * *
-
-![Screenshoot frontend resultado](readme_asset_wp_frontend.jpg)
+Simplemente un repo para hacer pruebas con githup 😝
